@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int personalDetails(void)
+{
+    scanf("Enter your age");
+    scanf("Enter your birth month");
+      printf("%d,age");
+ return(0)
+}
